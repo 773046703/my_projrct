@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: ToDoApp, Configuration: Debug Any CPU ------
+1>C:\Users\saeed\Desktop\OOP\ToDoApp\ToDoApp\Program.cs(6,7,6,33): warning CS0105: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+1>  ToDoApp -> C:\Users\saeed\Desktop\OOP\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
